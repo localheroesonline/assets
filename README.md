@@ -1,2 +1,2 @@
 # Assets
-Assets contains all png, jpg, svg & other related media used by local heroes consumer invoice, vendor invoice, etc.
+This repo contains all assets included in various transactional emails like welcome, order confirmation, invoice, password reset, etc.
